@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
+    <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javaWeb/lib/streambuffer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
